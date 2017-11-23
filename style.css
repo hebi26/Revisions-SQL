@@ -30,3 +30,14 @@ h2, span{
     background-image: -ms-linear-gradient(left, #31445c, #598AC7, #31445c);
     background-image: -o-linear-gradient(left, #31445c, #598AC7, #31445c);
 }
+
+table, th, tr, td{
+    padding: 0px 10px;
+    border: 1px solid black;
+    background-color: white;
+    text-align: center;
+}
+table{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
